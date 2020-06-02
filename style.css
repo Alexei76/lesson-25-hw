@@ -1,0 +1,14 @@
+body{text-align:center;background-image:url("img/sky.png");
+background-repeat: repeat;color:#fff;font-family: 'Mukta', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Oxygen', sans-serif;}
+.container{min-width:350px;max-width:60%; margin:0 auto; text-align:center;  padding:3% 4%;}
+.logo{max-width:90px;height:auto;margin:0 auto;}
+h1{font-size:3em;}
+
+h2{color:red;font-size:2.2em;}
+img{width:100%;height:auto;}
+span#copyright{color:fff;font-size:1.1em;}
+div#explanation{line-height:1.3em;width:70%;margin:0 auto;font-size:1em;}
+#imageDisplay{width:40%;height:auto;}
+
